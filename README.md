@@ -1,0 +1,2 @@
+# Face-Mask-Detection-using-Convolutional-Neural-Networks
+A method of building a Face Mask Detector using Convolutional Neural Networks (CNN) Python, Keras, Tensorflow and OpenCV. This problem is implemented at a basic level for beginners, mainly to understand how to build a model with a CNN. With the prevailing worldwide situation due to COVID-19 pandemic, these types of systems would be very supportive for many kind of institutions around the world. 
